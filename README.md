@@ -19,3 +19,5 @@ if risk:
 print("You are in risky group")
 else:
 print("You are not in risky group")
+
+#update
